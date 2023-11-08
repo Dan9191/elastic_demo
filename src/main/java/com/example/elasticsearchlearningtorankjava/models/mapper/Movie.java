@@ -1,12 +1,10 @@
-package com.example.elasticsearchlearningtorankjava.models;
+package com.example.elasticsearchlearningtorankjava.models.mapper;
 
 import lombok.Data;
-import lombok.ToString;
 
 import java.util.List;
 
 @Data
-@ToString
 public class Movie {
 
     private String poster_path;

@@ -1,4 +1,4 @@
-package com.example.elasticsearchlearningtorankjava.models;
+package com.example.elasticsearchlearningtorankjava.models.mapper;
 
 import lombok.Data;
 
